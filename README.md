@@ -2,6 +2,8 @@
 
 This is a sample project for using precompiled NIFs with Rustler.
 
+Hi
+
 In order to use it, you either set the `RUSTLER_PRECOMPILATION_EXAMPLE_BUILD` env var
 to force compilation, or you first run the following mix task:
 
